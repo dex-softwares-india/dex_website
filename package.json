@@ -1,0 +1,24 @@
+{
+  "name": "dex_website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dex-softwares-india/dex_website.git"
+  },
+  "author": "shubham gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dex-softwares-india/dex_website/issues"
+  },
+  "homepage": "https://github.com/dex-softwares-india/dex_website#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.9",
+    "express": "^4.16.3"
+  }
+}
